@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BelicaAssassina">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/BelicaAssassina.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
