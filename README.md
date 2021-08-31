@@ -1,6 +1,7 @@
 # BelicaAssassina
 
 BelicaAssassina is a challenge by Academia de Código bootcamp.
+This project is a game similar to space invaders.
 The goal is to develop a group game in 10 days.
 
 **Technologies**
@@ -13,11 +14,12 @@ The goal is to develop a group game in 10 days.
 
 `Press space to shoot`
 
-Developers:
+**Developers**
 
 `João Pacheco`
 `Luísa Sopas`
 `Pedro Vieira`
 `Ricardo Bettencourt `
+
 
 
