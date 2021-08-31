@@ -22,5 +22,6 @@ The goal is to develop a group game in 10 days.
 `Ricardo Bettencourt `
 
 
+# Start!
 
-![Happy Christmas](Inical.png)
+![foxdemo](https://github.com/pedroalexandrevieira/BelicaAssassina/blob/main/Inicial.png)
