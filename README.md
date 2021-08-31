@@ -14,7 +14,7 @@ The goal is to develop a group game in 10 days.
 
 `Press space to shoot`
 
-**Developers**
+**This piece of art was developed by:**
 
 `João Pacheco`
 `Luísa Sopas`
