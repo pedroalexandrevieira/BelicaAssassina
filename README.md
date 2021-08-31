@@ -24,4 +24,4 @@ The goal is to develop a group game in 10 days.
 
 # Start!
 
-![foxdemo](https://github.com/pedroalexandrevieira/BelicaAssassina/blob/main/Inicial.png)
+![foxdemo](https://github.com/pedroalexandrevieira/BelicaAssassina/blob/main/resources%20/Start.png)
