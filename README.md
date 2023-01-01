@@ -6,7 +6,7 @@ The goal is to develop a group game in 10 days.
 
 **Technologies**
 
-`Java` `Simple Graphics`
+`Java` `Simple Graphics` `Spring Boot`
 
 **Commands**
 
